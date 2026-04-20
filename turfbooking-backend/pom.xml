@@ -98,7 +98,7 @@
             <version>1.4.3</version>
         </dependency>
 
-        <!-- Springdoc OpenAPI (Swagger UI) -->
+        <!-- Springdoc  OpenAPI (Swagger UI) -->
         <dependency>
             <groupId>org.springdoc</groupId>
             <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
