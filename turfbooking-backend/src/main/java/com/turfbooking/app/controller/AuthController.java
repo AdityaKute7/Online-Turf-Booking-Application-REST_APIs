@@ -22,6 +22,7 @@ import org.springframework.web.bind.annotation.RestController;
 @Tag(name = "Authentication", description = "Register and Login endpoints")
 public class AuthController {
 
+    
     private final AuthService authService;
 
     @PostMapping("/register")
